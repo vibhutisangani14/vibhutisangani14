@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a Android developer .
-- 👀 I’m interested in all kind of android and java work.
-- 🌱 I’m currently learning working as freelancer.
-- 💞️ I love to help companies with android task.
+- 👋 Hi, I’m an Android developer .
+- 👀 I create android applications from scratch using java and kotlin.
+- 🌱 I’m currently working as a freelancer.
+- 💞️ I love to contribute in companies by working for them as an Android Developer.
 - 📫 You can reach me at sanganivibhuti@gmail.com
